@@ -1,0 +1,15 @@
+/home/ntl870/SOLID/SOLID/bin/Debug/net7.0/SOLID
+/home/ntl870/SOLID/SOLID/bin/Debug/net7.0/SOLID.deps.json
+/home/ntl870/SOLID/SOLID/bin/Debug/net7.0/SOLID.runtimeconfig.json
+/home/ntl870/SOLID/SOLID/bin/Debug/net7.0/SOLID.dll
+/home/ntl870/SOLID/SOLID/bin/Debug/net7.0/SOLID.pdb
+/home/ntl870/SOLID/SOLID/obj/Debug/net7.0/SOLID.csproj.AssemblyReference.cache
+/home/ntl870/SOLID/SOLID/obj/Debug/net7.0/SOLID.GeneratedMSBuildEditorConfig.editorconfig
+/home/ntl870/SOLID/SOLID/obj/Debug/net7.0/SOLID.AssemblyInfoInputs.cache
+/home/ntl870/SOLID/SOLID/obj/Debug/net7.0/SOLID.AssemblyInfo.cs
+/home/ntl870/SOLID/SOLID/obj/Debug/net7.0/SOLID.csproj.CoreCompileInputs.cache
+/home/ntl870/SOLID/SOLID/obj/Debug/net7.0/SOLID.dll
+/home/ntl870/SOLID/SOLID/obj/Debug/net7.0/refint/SOLID.dll
+/home/ntl870/SOLID/SOLID/obj/Debug/net7.0/SOLID.pdb
+/home/ntl870/SOLID/SOLID/obj/Debug/net7.0/SOLID.genruntimeconfig.cache
+/home/ntl870/SOLID/SOLID/obj/Debug/net7.0/ref/SOLID.dll

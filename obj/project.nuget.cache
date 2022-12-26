@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tm3pNnWZcXA/TUSy20y57j1UFeNHy7tpR0bzaoD1JDWpv/du7aXhMo+VFf8JYAEicwP2IYzOhEhAbh27a2yV6w==",
+  "success": true,
+  "projectFilePath": "/home/ntl870/SOLID/SOLID/SOLID.csproj",
+  "expectedPackageFiles": [
+    "/home/ntl870/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
