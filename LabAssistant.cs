@@ -1,13 +1,10 @@
 class LabAssistant : Employee
 {
-    public LabAssistant(ICalculateSalary salaryCalculator, ICalculateTax taxCalculator)
-    {
-        this.salaryCalculator = new SalaryCalculator();
-        this.taxCalculator = new TaxCalculator();
-    }
+    public LabAssistant(ICalculateTax taxCalculator) : base(new LabAssistantSalary(), new TaxCalculator())
+    { }
 
     public override double getSalaryAfterTax()
     {
-        return 3500;
+        return this.salaryCalculator.calculateSalary();
     }
 }

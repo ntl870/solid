@@ -1,10 +1,7 @@
 class HeadOfDepartment : Employee
 {
-    public HeadOfDepartment(ICalculateSalary salaryCalculator, TaxCalculator taxCalculator)
-    {
-        this.salaryCalculator = new SalaryCalculator();
-        this.taxCalculator = new TaxCalculator();
-    }
+    public HeadOfDepartment(ICalculateTax taxCalculator) : base(new HeadOfDepartmentSalary(), new TaxCalculator())
+    { }
 
     public override double getSalaryAfterTax()
     {

@@ -1,10 +1,7 @@
 class Professor : Employee
 {
-    public Professor(ICalculateSalary salaryCalculator, ICalculateTax taxCalculator)
-    {
-        this.salaryCalculator = new SalaryCalculator();
-        this.taxCalculator = new TaxCalculator();
-    }
+    public Professor(ICalculateTax taxCalculator) : base(new ProfessorSalary(), new TaxCalculator()) { }
+
 
     public override double getSalaryAfterTax()
     {

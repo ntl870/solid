@@ -1,10 +1,7 @@
 class AssistantProfessor : Employee
 {
-    public AssistantProfessor(ICalculateTax taxCalculator)
-    {
-        this.salaryCalculator = new AssistantProfessorSalary();
-        this.taxCalculator = new TaxCalculator();
-    }
+    public AssistantProfessor(ICalculateTax taxCalculator) : base(new AssistantProfessorSalary(), new TaxCalculator())
+    { }
 
     public override double getSalaryAfterTax()
     {
